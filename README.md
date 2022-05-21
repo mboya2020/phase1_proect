@@ -9,9 +9,9 @@ Phase_1 project was Microsofts business question that required me as the Data Sc
 ### Recommendations
  1. If Microsoft studio is targetting the International market-which will bring in more foreign gross: The head of Microsoft's new studio should consider the top 10 Movie Titles that brought in more foreign gross income.The top 10 movie titles are listed.
 
-   i. If Microsoft studio is targetting the local market-which will bring in more domestic gross: The head of Microsoft's new studio should consider the top 10 Movie Titles that brought in more domestic gross income.The top 10 movie titles are as listed.
+        i. If Microsoft studio is targetting the local market-which will bring in more domestic gross: The head of Microsoft's new studio should consider the top 10 Movie Titles that brought in more domestic gross income.The top 10 movie titles are as listed.
 
-   ii. If Microsoft studio is targetting both the International and local markets-which will bring in more foreign and domestic gross: The head of Microsoft's new studio should cosider the top 10 Movie Titles that brought in more total gross income
+        ii. If Microsoft studio is targetting both the International and local markets-which will bring in more foreign and domestic gross: The head of Microsoft's new studio should cosider the top 10 Movie Titles that brought in more total gross income
 
 2. There are 502 movie titles that are currently doing excellently/best at the market.But among these also the top tire (top 10) are also listed and therefore the head of Microsoft's new movie studio has the option of the best 10 of the top category 
 
