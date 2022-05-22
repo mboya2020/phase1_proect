@@ -7,18 +7,17 @@ Phase_1 project was Microsofts business question that required me as the Data Sc
 - The technologies i used visualizes the recommendations which will be helpful in the decision making
 
 ### Recommendations
- 1. If Microsoft studio is targetting the International market-which will bring in more foreign gross: The head of Microsoft's new studio should consider the top 10 Movie Titles that brought in more foreign gross income.The top 10 movie titles are listed.
+ 1. If the new Microsoft studio is aiming for the international market, the top 10 movie titles with the highest overseas gross income should be considered. Here are the top ten film titles.
 
-        i. If Microsoft studio is targetting the local market-which will bring in more domestic gross: The head of Microsoft's new studio should consider the top 10 Movie Titles that brought in more domestic gross income.The top 10 movie titles are as listed.
+        i. If Microsoft's new studio is aiming for the local market, the top 10 movie titles that resulted in the most domestic gross money should be considered by the firm's new director. The top ten film titles are mentioned.
+        
+        ii. If Microsoft Studios aims for both international and domestic markets, which will generate more foreign and domestic revenue: The top ten movie titles with the highest overall gross income should be considered by the head of Microsoft's new studio.
+        
+2. There are 502 films that are now doing exceptionally well/best on the market. However, the top ten tires (top 10) are also listed, giving the CEO of Microsoft's new movie studio the choice of selecting the best ten of the top category.
 
-        ii. If Microsoft studio is targetting both the International and local markets-which will bring in more foreign and domestic gross: The head of Microsoft's new studio should cosider the top 10 Movie Titles that brought in more total gross income
+3. 2017 was the year with the highest total gross. I recommend making the same films that were made in 2017 for Microsoft's new movie studio to achieve a similar or higher overall gross.
+5. I also advise Microsoft's new movie studio chief to pay a visit to the studios that produced the year's best films to benchmark and see how they were made.
 
-2. There are 502 movie titles that are currently doing excellently/best at the market.But among these also the top tire (top 10) are also listed and therefore the head of Microsoft's new movie studio has the option of the best 10 of the top category 
-
-3. The year 2017 realized the highest total gross.For Microsoft new movie studio to realize a similiar or higher total gross i recommend creating the same films that were created in the year 2017.
-
-4. I also recommend Microsoft's new movie studio head to visit the studios that produced the top movies produced in 2017 to benchmark and see how the movies were created.
-
-5. Creating Movie Titles that can be watched both locally and internationally is of the best interest to Microsoft new studio since an increase in domestic gross results in an increase in foreign gross as shown above.The new Microsoft studio would apprreciate a good return in  total gross,am i right?
+7. Microsoft's new studio is most interested in creating movie titles that can be seen both domestically and abroad, as illustrated from the positive correlation of the two
 
 
